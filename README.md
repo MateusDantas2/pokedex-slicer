@@ -39,8 +39,8 @@ git clone https://github.com/MateusDantas2/pokedex-slicer
 ```
 ### 👉 Features
 
-- 1 - [x] Passar para a próxima carta e travar quando chegar na última
-- 2 - [ ] Quando chegar na última carta, voltar para a primeira
+- [x] 1 - Passar para a próxima carta e travar quando chegar na última
+- [x] 2 - Quando chegar na última carta, voltar para a primeira
 
 
 ### Autor
