@@ -9,12 +9,12 @@ Pokédex é uma página interativa desenvolvida em HTML, CSS e JavaScript na qua
 <h3> Tela Slicer Feature 1 </h3>
 <br>
 
-<img border=1% src=./readmegifs/cadastro.gif>
+<img border=1% src="src/gifs/tela-1.gif">
 <br>
 <br>
 <h3> Tela Slicer Feature 2 </h3>
 <br>
-<img border=1% src=./readmegifs/login.gif>
+<img border=1% src="src/gifs/tela-2.gif">
 </div>
 <br>
 <hr>
