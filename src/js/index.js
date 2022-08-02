@@ -34,8 +34,10 @@ function mostrarCartao() {
 
 btnAvancar.addEventListener("click", function () {
 
-    if(cartaoAtual === cartoes.length - 1) 
-    return;
+    if(cartaoAtual == 2) {
+        cartaoAtual = 0;
+        cartaoAtual --;
+    }
 
     esconderCartaoSelecionado();
 
@@ -46,8 +48,9 @@ btnAvancar.addEventListener("click", function () {
 
 btnVoltar.addEventListener("click", function () {  
 
-    if(cartaoAtual === 0)
-    return;
+    if(cartaoAtual == 0) {
+        cartaoAtual = cartoes.length;
+    }
 
     esconderCartaoSelecionado();
 
